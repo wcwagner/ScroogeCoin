@@ -2,7 +2,7 @@
 ScroogeCoin is a centralized crypto-currency, defined in the textbook "Bitcoin and Cryptocurrency Technologies" (Princeton University)
 
 ## Specifications of the currency
-#### Coin Creation**
+#### Coin Creation
 - Scrooge is the central actor in this currency, as the trusted central entity he is in charge of minting new coins and appending new blocks to the blockchain.
 
 #### Transaction Types in the Blockchain
